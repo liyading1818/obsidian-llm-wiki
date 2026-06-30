@@ -1,0 +1,24 @@
+# Obsidian 本地状态
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 个人知识内容（Public 不公开，仅根目录）
+/wiki/
+/raw/
+/clippings/
+/output/
+/notes/
+/lint/
+
+# video2wiki 临时产物
+output/.video_work/
+*.mp4
+*.m4a
+*.webm
+*.opus
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
