@@ -37,3 +37,9 @@
 > "请先读 `AGENTS.md`，按里面的规范工作。"
 
 就够了。
+## 成果展示
+> **省去看视频和长阅读的时间，直接将长视频转换成逐字稿和总结**
+<img width="1174" height="2706" alt="image" src="https://github.com/user-attachments/assets/2bf4787e-6e64-445c-94a9-9a217dd674e2" />
+> **知识间相互串联**
+![Uploading image.png…]()
+
