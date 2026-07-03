@@ -37,14 +37,14 @@
 > "请先读 `AGENTS.md`，按里面的规范工作。"
 
 就够了。
-## 成果展示
-> **省去看视频和长阅读的时间，直接将长视频转换成逐字稿和总结**
+## 成果展
+省去看视频和长阅读的时间，直接将长视频转换成逐字稿和总结
 <img width="928" height="1114" alt="image" src="https://github.com/user-attachments/assets/bbe25911-2260-49bf-b8d5-b5857deedc2e" />
 
-> **知识间相互串联**
+知识间相互串联
 <img width="1241" height="1033" alt="image" src="https://github.com/user-attachments/assets/bf2e3756-6500-4208-ba9c-2e96aeffa76b" />
 
-> **连接AI工具进行知识库的问答，get外部大脑**
+连接AI工具进行知识库的问答，get外部大脑
 <img width="917" height="882" alt="image" src="https://github.com/user-attachments/assets/a7b2acfb-f8cf-481a-91be-5d0618cd2bee" />
 
 
